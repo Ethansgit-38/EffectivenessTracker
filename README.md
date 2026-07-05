@@ -3,7 +3,7 @@
 A free, no-login productivity + effectiveness tracker for sales reps. One page.
 Type in your numbers, see how effective you actually are — not just how busy.
 
-**Use it live:** _(link goes here once hosting is on)_
+**Use it live:** https://ethansgit-38.github.io/EffectivenessTracker/
 
 Or download `index.html` and double-click it — works offline, nothing to install.
 
