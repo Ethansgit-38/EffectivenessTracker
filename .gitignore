@@ -1,0 +1,3 @@
+# Local data backups (per-client exports) — never publish these
+kpi-*.json
+.DS_Store
